@@ -44,7 +44,6 @@ This system helps administrators manage dashboards, employees, inventory, menu i
 ```bash
 git clone https://github.com/praful10214/Super-Admin-Panel.git
 
-
 2. Navigate into the project
 cd Super-Admin-Panel
 
